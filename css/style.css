@@ -598,7 +598,7 @@ input, select, textarea { font-family: inherit; font-size: 1rem; }
   .nav__links { display: none; }
   .nav__burger { display: flex; }
   .nav__cta { display: none; }
-  .nav__inner { justify-content: space-between;}
+  .nav__inner { justify-content: space-between; }
 }
 @media (max-width: 1080px) {
   .attractions__grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
